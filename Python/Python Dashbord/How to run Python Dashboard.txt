@@ -1,0 +1,13 @@
+How to run python dashboard
+
+* The dashboard made with streamlit, pandas, numpy, portly libraries, so they should be previously installed on your PC
+* The coding program used is VS studio using ANACONDA environment
+
+1. First open ANACONDA Navigator
+2. Second lunch anaconda_prompt
+3.Write this code line to open the dashboard : streamlit run global_climate_dashboard_Final.py
+
+* Important note:
+The .py file and the global_climate_cleaned_data.csv should be on the same folder 
+Example: If you launched anaconda_propmt you will see the following line: (base) C:\Users\Ahmed Bahaa>
+So the files should be on the folder which have this path Users-->Ahmed Bahaa 
