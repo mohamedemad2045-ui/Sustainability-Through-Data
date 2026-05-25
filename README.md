@@ -135,7 +135,7 @@ The team successfully divided responsibilities across SQL/Python analysis and BI
 
 ## 📄 **Dataset**
 
-- **Source:** [Kaggle — Global Climate Events Dataset](https://www.kaggle.com)  
+- **Source:** [Kaggle — Global Climate Events Dataset]([https://www.kaggle.com](https://www.kaggle.com/datasets/uom190346a/global-climate-events-and-economic-impact-dataset/data))  
 - **Coverage:** 2020–2025 | Global | 51 countries  
 - **Records:** ~3,000 climate event records  
 - **Key Fields:** Event Type, Country, Continent, Season, Severity, Deaths, Injuries, Economic Impact (M USD), Response Time (hrs), International Aid (M USD)
