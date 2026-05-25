@@ -17,7 +17,7 @@ This project was developed for **DEPI Round 4 (2025–2026)**, using real-world 
 ✨ Mohamed Emad *(Team Leader)*  
 ✨ Ahmed Bahaa  
 ✨ Shaimaa Abdelrahman  
-✨ Amal Ayman  
+✨ Amaal Ayman  
 ✨ Basant Abdelhakim
 
 ---
