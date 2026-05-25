@@ -142,4 +142,4 @@ The team successfully divided responsibilities across SQL/Python analysis and BI
 
 ---
 
-*Developed as part of DEPI Round 2 (2024–2025) — Data Analyst Specialist Track*
+*Developed as part of DEPI Round 4 (2025–2026) — Data Analyst Specialist Track*
