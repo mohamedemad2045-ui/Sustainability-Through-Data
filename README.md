@@ -3,7 +3,9 @@
 > Sustainable development integrates environmental responsibility, economic stability, and social equity.  
 > By leveraging data, we evaluate impact, monitor progress, and guide strategies that ensure a balanced and lasting future.
 
-![Project Logo](https://github.com/mohamedemad2045-ui/Sustainability-Through-Data/blob/main/Images/your-logo.png?raw=true)
+<div align="center">
+<img src="https://github.com/mohamedemad2045-ui/Sustainability-Through-Data/blob/main/Python/Project_logo.png?raw=true" width="400"/>
+</div>
 
 An end-to-end **data analysis** Final Project showcasing our work in analyzing **Global Climate Events and their Economic Impact**.  
 This project was developed for **DEPI Round 4 (2025–2026)**, using real-world climate disaster data to deliver **actionable insights**.
